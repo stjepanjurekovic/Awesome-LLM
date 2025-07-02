@@ -424,6 +424,15 @@ The above tables coule be better summarized by this wonderful visualization from
 
 ## Books
 - [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng) - it comes with a [GitHub repository](https://github.com/benman1/generative_ai_with_langchain) that showcases a lot of the functionality
+- [Introduction to Generative AI, Second Edition](https://www.manning.com/books/introduction-to-generative-ai-second-edition) - An up-to-date guide to the capabilities, risks, and limitations of tools like ChatGPT, Gemini, and Claude.
+- [LLMs in Production](https://www.manning.com/books/llms-in-production) - A book that teaches how to develop an LLMOps plan that can take an AI app smoothly from design to delivery.
+- [How Large Language Models Work](https://www.manning.com/books/how-large-language-models-work) - A book that takes you inside an LLM, showing step-by-step how a natural language prompt becomes a clear, readable text completion.
+- [LLM Reliability](https://www.manning.com/books/llm-reliability) - A guide to putting LLMs into production in the real world.
+- [Build an LLM Application (from Scratch)](https://www.manning.com/books/build-an-llm-application-from-scratch) - A practical and comprehensive handbook for creating custom LLM applications without relying on premade frameworks.
+- [Data Analysis with LLMs](https://www.manning.com/books/data-analysis-with-llms) - A book about using the new generation of AI assistants and Large Language Models (LLMs) to aid and accelerate common data science tasks.
+- [AI Applications Made Easy](https://www.manning.com/books/generative-ai-made-easy) - A fully illustrated guide to building generative AI apps!
+- [LangChain in Action](https://www.manning.com/books/ai-apps-with-langchain) - A book about how to build useful LangChain-based AI apps.
+- [AI Engineering in Practice](https://www.manning.com/books/ai-engineering-in-practice) - A book that introduces valuable prompt engineering techniques based on industry usage and AI research.
 
 
 ## Opinions
