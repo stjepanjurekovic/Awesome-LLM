@@ -575,6 +575,7 @@
 ## LLM Books
 - [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng) - it comes with a [GitHub repository](https://github.com/benman1/generative_ai_with_langchain) that showcases a lot of the functionality
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM.
+- [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch) - A guide to building a working reasoning model from the ground up.
 - [BUILD GPT: HOW AI WORKS](https://www.amazon.com/dp/9152799727?ref_=cm_sw_r_cp_ud_dp_W3ZHCD6QWM3DPPC0ARTT_1) - explains how to code a Generative Pre-trained Transformer, or GPT, from scratch.
 - [Hands-On Large Language Models: Language Understanding and Generation](https://www.llm-book.com/) - Explore the world of Large Language Models with over 275 custom made figures in this illustrated guide!
 - [The Chinese Book for Large Language Models](http://aibox.ruc.edu.cn/zws/index.htm) - An Introductory LLM Textbook Based on [*A Survey of Large Language Models*](https://arxiv.org/abs/2303.18223).
